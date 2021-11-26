@@ -1,0 +1,260 @@
+{
+ "Achievements": {
+  "Boom Goes the Dynamite": {
+   "Complete": false
+  }, 
+  "Boxer": {
+   "Complete": false
+  }, 
+  "Dual Wielding": {
+   "Complete": false
+  }, 
+  "Flawless Victory": {
+   "Complete": false
+  }, 
+  "Free Loader": {
+   "Complete": true
+  }, 
+  "Gold Miner": {
+   "Complete": false
+  }, 
+  "Got the Moves": {
+   "Complete": false
+  }, 
+  "In Control": {
+   "Complete": false
+  }, 
+  "Last Stand God": {
+   "Complete": false
+  }, 
+  "Last Stand Master": {
+   "Complete": false
+  }, 
+  "Last Stand Wizard": {
+   "Complete": false
+  }, 
+  "Mine Games": {
+   "Complete": false
+  }, 
+  "Off You Go Then": {
+   "Complete": false
+  }, 
+  "Onslaught God": {
+   "Complete": false
+  }, 
+  "Onslaught Master": {
+   "Complete": false
+  }, 
+  "Onslaught Training Victory": {
+   "Complete": false
+  }, 
+  "Onslaught Wizard": {
+   "Complete": false
+  }, 
+  "Precision Bombing": {
+   "Complete": false
+  }, 
+  "Pro Boxer": {
+   "Complete": false
+  }, 
+  "Pro Football Shutout": {
+   "Complete": false
+  }, 
+  "Pro Football Victory": {
+   "Complete": false
+  }, 
+  "Pro Onslaught Victory": {
+   "Complete": false
+  }, 
+  "Pro Runaround Victory": {
+   "Complete": false
+  }, 
+  "Rookie Football Shutout": {
+   "Complete": false
+  }, 
+  "Rookie Football Victory": {
+   "Complete": false
+  }, 
+  "Rookie Onslaught Victory": {
+   "Complete": false
+  }, 
+  "Runaround God": {
+   "Complete": false
+  }, 
+  "Runaround Master": {
+   "Complete": false
+  }, 
+  "Runaround Wizard": {
+   "Complete": false
+  }, 
+  "Sharing is Caring": {
+   "Complete": false
+  }, 
+  "Stayin' Alive": {
+   "Complete": false
+  }, 
+  "Super Mega Punch": {
+   "Complete": false
+  }, 
+  "Super Punch": {
+   "Complete": false
+  }, 
+  "TNT Terror": {
+   "Complete": false
+  }, 
+  "Team Player": {
+   "Complete": false
+  }, 
+  "The Great Wall": {
+   "Complete": false
+  }, 
+  "The Wall": {
+   "Complete": false
+  }, 
+  "Uber Football Shutout": {
+   "Complete": false
+  }, 
+  "Uber Football Victory": {
+   "Complete": false
+  }, 
+  "Uber Onslaught Victory": {
+   "Complete": false
+  }, 
+  "Uber Runaround Victory": {
+   "Complete": false
+  }
+ }, 
+ "Auto Account State": "Server", 
+ "Auto Balance Teams": true, 
+ "Campaigns": {}, 
+ "Default Player Profiles": {
+  "Client Input Device #1": "Nezuko Chan", 
+  "Client Input Device #10": "\ud835\udce1\ud835\udcd0\ud835\udce8", 
+  "Client Input Device #11": "__account__", 
+  "Client Input Device #12": "KAVIYA   SL", 
+  "Client Input Device #13": "Zeus", 
+  "Client Input Device #14": "_random", 
+  "Client Input Device #17": "__account__", 
+  "Client Input Device #18": "L\u1eb3\u03b0\u2075\u0362\u1d4f", 
+  "Client Input Device #2": "\u0f06\u0274s\u0262\u30b7\ufe0e", 
+  "Client Input Device #21": "L\u1eb3\u03b0\u2075\u0362\u1d4f", 
+  "Client Input Device #3": "\u0f69wOw\u0365\u0fd0\u0363 .\u036b", 
+  "Client Input Device #4": "CHAMPION_2451", 
+  "Client Input Device #5": "__account__", 
+  "Client Input Device #6": "CHAMPION_2451", 
+  "Client Input Device #7": "dude", 
+  "Client Input Device #8": "Jolly", 
+  "Client Input Device #9": "__account__"
+ }, 
+ "Enable Telnet": false, 
+ "Free-for-All Playlist Randomize": true, 
+ "Free-for-All Playlist Selection": "Epic Super Smash", 
+ "Free-for-All Playlists": {
+  "Epic Super Smash": [
+   {
+    "settings": {
+     "Epic Mode": true, 
+     "Lives (0 = Unlimited)": 2, 
+     "Time Limit": 0, 
+     "map": "Happy Thoughts"
+    }, 
+    "type": "smash.SuperSmash"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Lives (0 = Unlimited)": 3, 
+     "Time Limit": 0, 
+     "map": "Tip Top"
+    }, 
+    "type": "smash.SuperSmash"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": true, 
+     "Lives (0 = Unlimited)": 3, 
+     "Time Limit": 0, 
+     "map": "Courtyard"
+    }, 
+    "type": "smash.SuperSmash"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Lives (0 = Unlimited)": 3, 
+     "Time Limit": 0, 
+     "map": "Doom Shroom"
+    }, 
+    "type": "smash.SuperSmash"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Lives (0 = Unlimited)": 3, 
+     "Time Limit": 0, 
+     "map": "Step Right Up"
+    }, 
+    "type": "smash.SuperSmash"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Lives (0 = Unlimited)": 3, 
+     "Time Limit": 0, 
+     "map": "Crag Castle"
+    }, 
+    "type": "smash.SuperSmash"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Lives (0 = Unlimited)": 3, 
+     "Time Limit": 0, 
+     "map": "The Pad"
+    }, 
+    "type": "smash.SuperSmash"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Lives (0 = Unlimited)": 3, 
+     "Time Limit": 0, 
+     "map": "Rampage"
+    }, 
+    "type": "smash.SuperSmash"
+   }
+  ]
+ }, 
+ "Lang": "English", 
+ "Local Account Name": "Server2757926", 
+ "PSTR": 0, 
+ "Player Profiles": {
+  "__account__": {
+   "character": "Spaz", 
+   "color": [
+    0.5, 
+    0.25, 
+    1.0
+   ], 
+   "highlight": [
+    0.5, 
+    0.25, 
+    1.0
+   ]
+  }
+ }, 
+ "Port": 43211, 
+ "Show Tutorial": false, 
+ "Signed In Last Session": false, 
+ "Team Tournament Playlist Randomize": true, 
+ "Team Tournament Playlist Selection": "__default__", 
+ "Team Tournament Playlists": {}, 
+ "Telnet Password": "changeme", 
+ "Telnet Port": 43250, 
+ "launchCount": 298, 
+ "lc14": 1, 
+ "lc14146": 1, 
+ "lc14173": 1, 
+ "lc14292": 1, 
+ "lc14c": 1
+}
