@@ -17,7 +17,7 @@ enableChatFilter = True
 coinTexts = ['Welcome to Meliodas Official','Use "/shop commands" to see commands available to buy.','Use "/shop effects" to see effects available and their price.','Use "/me" or "/stats" to see your '+bs.getSpecialChar('ticket')+' and your stats in this server', 'Use "/buy" to buy effects that you like','Use "/donate" to give some of your tickets to other players','Use "/scoretocash" to convert some of your score to '+bs.getSpecialChar('ticket')+'\nCurrent Rate: 5scores = '+bs.getSpecialChar('ticket')+'1']
 
 questionDelay = 60 #60 #seconds
-questionsList = {'Who is the owner of this server?': 'meliodas', 'Who is the editor of this server?': 'meliodas','What Should we wear during Corona?': 'mask','Which is the biggest planet in our solar System?': 'jupiter','In which country Eiffel Tower located?': 'paris','In which country taj mahal located?': 'india','Which month of the year has least number of days?': 'february','Which is the largest animal in the world?': 'blue whale','In which direction does the sunrise?': 'east','which is the Continent with most number of countries?': 'africa', 
+questionsList = {'Who is the owner of this server?': 'meliodas', 'Who is the editor of this server?': 'meliodas','What Should we wear during Corona?': 'mask','Which is the biggest planet in our solar System?': 'jupiter','In which country Eiffel Tower located?': 'paris', 
        'add': None, 
        'multiply': None}
 
