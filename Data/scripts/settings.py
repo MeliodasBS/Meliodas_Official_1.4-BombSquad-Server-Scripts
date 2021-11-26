@@ -2,7 +2,7 @@ import bs
 from datetime import datetime
 date = datetime.now().strftime('%d')
 
-enableTop5effects = True
+enableTop5effects = False
 enableTop5commands = False
 enableCoinSystem = True
 
