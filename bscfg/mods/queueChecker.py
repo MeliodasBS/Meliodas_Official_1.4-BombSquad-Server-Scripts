@@ -24,7 +24,7 @@ def _onQueueQueryResult(result):
 		
 def start():
         bsInternal._addTransaction(
-                {'type': 'PARTY_QUEUE_QUERY', 'q': "p_S-la8028746-65cc-4a1c-95bb-c63a350c9b80_7019_13.232.83.253_43880"},
+                {'type': 'PARTY_QUEUE_QUERY', 'q': "Your Server Queue Id here"},
                 callback=bs.Call(_onQueueQueryResult))
         bsInternal._runTransactions()
 
