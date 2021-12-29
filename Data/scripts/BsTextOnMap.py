@@ -17,7 +17,7 @@ def __init__(self, vrOverlayCenterOffset=None):
         self.preloadData = self.preload(onDemand=True)
         def text(): 
                 t = bs.newNode('text',
-                       attrs={ 'text':u'👑|OWNER : MELIODAS\n🌿|EDITOR : MELIODAS\n⚡|SCRIPT BY SPARXTN',
+                       attrs={ 'text':u'👑|OWNER : <Your Name>\n🌿|EDITOR : MELIODAS\n⚡|SCRIPT BY SPARXTN',
                              
 'scale':0.5,
                               'maxWidth':0,
@@ -29,7 +29,7 @@ def __init__(self, vrOverlayCenterOffset=None):
                               'vAttach':'bottom'})
                 bs.animate(t,'opacity',{0:0.8})
                 t = bs.newNode('text',
-                       attrs={ 'text':u'🌿Meliodas Official Smash👾',
+                       attrs={ 'text':u'<Your Server Name>',
                               'scale':0.72,
                               'maxWidth':0,
                               'position':(11,648),
@@ -70,7 +70,7 @@ def __init__(self, vrOverlayCenterOffset=None):
 		else:
 			i+=1
                 t = bs.newNode('text',
-                       attrs={ 'text':random.choice([u'\ue048WELCOME TO MELIODAS OFFICIAL SMASH\ue048',u'👾RESPECT EVERYONE👾',u'JOIN OUR DISCORD SERVER BY CLICKING ON STATS BUTTON',u'[👑]OWNER - MELIODAS[👑]']),
+                       attrs={ 'text':random.choice([u'\ue048WELCOME TO <YOUR SERVER NAME>\ue048',u'👾RESPECT EVERYONE👾',u'JOIN OUR DISCORD SERVER BY CLICKING ON STATS BUTTON',u'[👑]OWNER - <YOUR NAME>[👑]']),
                               'scale':0.72,
                               'maxWidth':0,
                               'position':(0,138),
